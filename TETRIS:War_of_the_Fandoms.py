@@ -59,7 +59,7 @@ class Game:
     WINDOWHEIGHT = 768
     GAMENAME = "TETRIS: War of the Fandoms"
     FRAMERATE = 60
-    BGCOLOR = (255,255,255)
+    BGCOLOR = (128,0,0)
     playing = True
     
     #####Constructor#####
